@@ -1784,4 +1784,4 @@ async def room_managezxcvzxzx(self, interaction, member: disnake.Member = None):
             await interaction.edit_original_message(file=file)
 
 
-bot.run("MTExMDI5MTE5MjU3NjQ4MzM5MQ.GrKpmx.DecVQ5AP2vpblzh74RhGGFvygBU55-AJy5eQrs")
+bot.run("")
