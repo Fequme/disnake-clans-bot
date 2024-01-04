@@ -1,0 +1,6 @@
+disnake
+Pillow
+delorean
+requests 
+aiohttp
+pymongo
